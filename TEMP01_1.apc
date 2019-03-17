@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<arcplanConnection arcplanVersion="10.1.0.8200" xmlns="http://schemas.arcplan.com/arcplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.arcplan.com/arcplan http://schemas.arcplan.com/arcplan/Connection.xsd">
+
+  <ID Hi="30671970" Lo="2833636880"/>
+
+  <ConnectionString></ConnectionString>
+
+  <DriverType>ISObject</DriverType>
+
+  <SapLoginCheck>true</SapLoginCheck>
+
+  <ShowAllCubes>true</ShowAllCubes>
+
+  <offline>false</offline>
+
+  <AutoJoinColumns>true</AutoJoinColumns>
+
+  <Repeat>true</Repeat>
+
+  <RepositoryFile ShowOnlyRepTabs="false">TEMP01_1.apr</RepositoryFile>
+
+  <InternalTables>
+    <InternalTable>
+      <TableName>TEMP01_1</TableName>
+      <Columns>[TEMP_01;OBJ73]</Columns>
+      <Content>[TEMP_01;OBJ74]</Content>
+      <IndexDef></IndexDef>
+    </InternalTable>
+  </InternalTables>
+
+</arcplanConnection>

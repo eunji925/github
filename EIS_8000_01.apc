@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<arcplanConnection arcplanVersion="10.2.0.7200" xmlns="http://schemas.arcplan.com/arcplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.arcplan.com/arcplan http://schemas.arcplan.com/arcplan/Connection.xsd">
+
+  <ID Hi="30672553" Lo="978983312"/>
+
+  <ConnectionString></ConnectionString>
+
+  <DriverType>ISObject</DriverType>
+
+  <SapLoginCheck>true</SapLoginCheck>
+
+  <ShowAllCubes>true</ShowAllCubes>
+
+  <offline>false</offline>
+
+  <AutoJoinColumns>true</AutoJoinColumns>
+
+  <Repeat>true</Repeat>
+
+  <RepositoryFile ShowOnlyRepTabs="false">EIS_8000_01.apr</RepositoryFile>
+
+  <InternalTables>
+    <InternalTable>
+      <TableName>Sales_Overview</TableName>
+      <Columns>[EIS_8000;OBJ317]</Columns>
+      <Content>[EIS_8000;OBJ315]</Content>
+      <IndexDef></IndexDef>
+    </InternalTable>
+    <InternalTable>
+      <TableName>Loyalty_Customer</TableName>
+      <Columns>[EIS_8000;OBJ356]</Columns>
+      <Content>[EIS_8000;OBJ354]</Content>
+      <IndexDef></IndexDef>
+    </InternalTable>
+    <InternalTable>
+      <TableName>Web_Campaign</TableName>
+      <Columns>[EIS_8000;OBJ370]</Columns>
+      <Content>[EIS_8000;OBJ368]</Content>
+      <IndexDef></IndexDef>
+    </InternalTable>
+    <InternalTable>
+      <TableName>Target_Marketing</TableName>
+      <Columns>[EIS_8000;OBJ381]</Columns>
+      <Content>[EIS_8000;OBJ379]</Content>
+      <IndexDef></IndexDef>
+    </InternalTable>
+  </InternalTables>
+
+</arcplanConnection>

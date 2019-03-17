@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<arcplanRepository arcplanVersion="10.2.0.7200" xmlns="http://schemas.arcplan.com/arcplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.arcplan.com/arcplan http://schemas.arcplan.com/arcplan/Repository.xsd">
+
+  <TableInfos>
+    <TableInfo>
+      <TableName>수익성</TableName>
+      <OwnerName></OwnerName>
+      <DBName></DBName>
+      <NoIQCube>false</NoIQCube>
+      <ControlColumn></ControlColumn>
+      <NumberOfControlledColumns>0</NumberOfControlledColumns>
+      <NumberOfJoinColumns>0</NumberOfJoinColumns>
+      <NumberOfTimeColumns>1</NumberOfTimeColumns>
+      <MeasureDimName></MeasureDimName>
+      <TimeDimName></TimeDimName>
+      <JoinColumns/>
+      <TimeColumns>
+        <TimeColumn ColumnType="0">
+          <ColumnName>년도</ColumnName>
+          <RelChild></RelChild>
+          <TimeFormat>YYYY</TimeFormat>
+          <KeyColumn>false</KeyColumn>
+          <auto>false</auto>
+        </TimeColumn>
+      </TimeColumns>
+    </TableInfo>
+  </TableInfos>
+
+</arcplanRepository>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<arcplanConnection arcplanVersion="10.2.0.7200" xmlns="http://schemas.arcplan.com/arcplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.arcplan.com/arcplan http://schemas.arcplan.com/arcplan/Connection.xsd">
+
+  <ID Hi="30682845" Lo="1670192880"/>
+
+  <ConnectionString></ConnectionString>
+
+  <DriverType>ISObject</DriverType>
+
+  <SapLoginCheck>true</SapLoginCheck>
+
+  <ShowAllCubes>true</ShowAllCubes>
+
+  <offline>false</offline>
+
+  <AutoJoinColumns>true</AutoJoinColumns>
+
+  <Repeat>true</Repeat>
+
+  <RepositoryFile ShowOnlyRepTabs="false">EIS_DAISO.apr</RepositoryFile>
+
+  <InternalTables>
+    <InternalTable>
+      <TableName>EIS003</TableName>
+      <Columns>[DAISO_003;OBJ278]</Columns>
+      <Content>[DAISO_003;OBJ277]</Content>
+      <IndexDef></IndexDef>
+    </InternalTable>
+    <InternalTable>
+      <TableName>EIS005</TableName>
+      <Columns>[DAISO_002;OBJ280]</Columns>
+      <Content>[DAISO_002;OBJ279]</Content>
+      <IndexDef></IndexDef>
+    </InternalTable>
+    <InternalTable>
+      <TableName>EIS006</TableName>
+      <Columns>[EIS006;OBJ280]</Columns>
+      <Content>[EIS006;OBJ279]</Content>
+      <IndexDef></IndexDef>
+    </InternalTable>
+  </InternalTables>
+
+</arcplanConnection>

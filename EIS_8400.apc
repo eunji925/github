@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<arcplanConnection arcplanVersion="10.2.0.7200" xmlns="http://schemas.arcplan.com/arcplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.arcplan.com/arcplan http://schemas.arcplan.com/arcplan/Connection.xsd">
+
+  <ID Hi="30672802" Lo="1832496608"/>
+
+  <ConnectionString></ConnectionString>
+
+  <DriverType>ISObject</DriverType>
+
+  <SapLoginCheck>true</SapLoginCheck>
+
+  <ShowAllCubes>true</ShowAllCubes>
+
+  <offline>false</offline>
+
+  <AutoJoinColumns>true</AutoJoinColumns>
+
+  <Repeat>true</Repeat>
+
+  <RepositoryFile ShowOnlyRepTabs="false">EIS_8400.apr</RepositoryFile>
+
+  <InternalTables>
+    <InternalTable>
+      <TableName>Loyal_Customer</TableName>
+      <Columns>[EIS_8400;OBJ356]</Columns>
+      <Content>[EIS_8400;OBJ354]</Content>
+      <IndexDef></IndexDef>
+    </InternalTable>
+  </InternalTables>
+
+</arcplanConnection>

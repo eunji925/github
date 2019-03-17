@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<arcplanConnection arcplanVersion="10.1.0.8200" xmlns="http://schemas.arcplan.com/arcplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.arcplan.com/arcplan http://schemas.arcplan.com/arcplan/Connection.xsd">
+
+  <ID Hi="30598380" Lo="4230289520"/>
+
+  <ConnectionString></ConnectionString>
+
+  <DriverType>ISObject</DriverType>
+
+  <SapLoginCheck>true</SapLoginCheck>
+
+  <ShowAllCubes>true</ShowAllCubes>
+
+  <offline>false</offline>
+
+  <AutoJoinColumns>true</AutoJoinColumns>
+
+  <Repeat>true</Repeat>
+
+  <RepositoryFile ShowOnlyRepTabs="false">LGCNS_IN.apr</RepositoryFile>
+
+  <InternalTables>
+    <InternalTable>
+      <TableName>issue</TableName>
+      <Columns>[EIS001;OBJ189]</Columns>
+      <Content>[EIS001;OBJ188]</Content>
+      <IndexDef></IndexDef>
+    </InternalTable>
+    <InternalTable>
+      <TableName>EIS002</TableName>
+      <Columns>[EIS003;OBJ265]</Columns>
+      <Content>[EIS003;OBJ264]</Content>
+      <IndexDef></IndexDef>
+    </InternalTable>
+    <InternalTable>
+      <TableName>EIS003</TableName>
+      <Columns>[EIS003;OBJ81]</Columns>
+      <Content>[EIS003;OBJ82]</Content>
+      <IndexDef></IndexDef>
+    </InternalTable>
+    <InternalTable>
+      <TableName>EIS002_02</TableName>
+      <Columns>[EIS003;OBJ265]</Columns>
+      <Content>[EIS003;OBJ264]</Content>
+      <IndexDef></IndexDef>
+    </InternalTable>
+  </InternalTables>
+
+</arcplanConnection>

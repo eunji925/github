@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<arcplanapplicationsettings xmlns="http://schemas.arcplan.com/arcplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <ExternalFolderList/>
+
+  <Views/>
+
+  <Scenarios>
+    <Scenario>
+      <Name>1</Name>
+      <Key>1</Key>
+      <Comment></Comment>
+      <FillColor a="255" b="0" g="0" r="0"/>
+      <FillTransparency>true</FillTransparency>
+      <PatternColor a="255" b="0" g="0" r="0"/>
+      <Pattern>1</Pattern>
+      <Picture></Picture>
+      <LineSize>1</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="160" g="160" r="160"/>
+      <LineType>256</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>1</ConnectorType>
+      <SymbolType>1</SymbolType>
+      <SymbolSize>0</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>400</font-weight>
+    </Scenario>
+    <Scenario>
+      <Name>2</Name>
+      <Key>2</Key>
+      <Comment></Comment>
+      <FillColor a="255" b="0" g="0" r="0"/>
+      <FillTransparency>true</FillTransparency>
+      <PatternColor a="255" b="0" g="0" r="0"/>
+      <Pattern>1</Pattern>
+      <Picture></Picture>
+      <LineSize>1</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="160" g="160" r="160"/>
+      <LineType>4096</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>1</ConnectorType>
+      <SymbolType>1</SymbolType>
+      <SymbolSize>0</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>400</font-weight>
+    </Scenario>
+    <Scenario>
+      <Name>3</Name>
+      <Key>3</Key>
+      <Comment></Comment>
+      <FillColor a="255" b="0" g="0" r="0"/>
+      <FillTransparency>true</FillTransparency>
+      <PatternColor a="255" b="0" g="0" r="0"/>
+      <Pattern>1</Pattern>
+      <Picture></Picture>
+      <LineSize>1</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="160" g="160" r="160"/>
+      <LineType>4352</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>1</ConnectorType>
+      <SymbolType>1</SymbolType>
+      <SymbolSize>0</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>400</font-weight>
+    </Scenario>
+    <Scenario>
+      <Name>4</Name>
+      <Key>4</Key>
+      <Comment></Comment>
+      <FillColor a="255" b="224" g="224" r="224"/>
+      <FillTransparency>false</FillTransparency>
+      <PatternColor a="255" b="224" g="224" r="224"/>
+      <Pattern>1</Pattern>
+      <Picture></Picture>
+      <LineSize>0</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="160" g="160" r="160"/>
+      <LineType>4352</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>1</ConnectorType>
+      <SymbolType>1</SymbolType>
+      <SymbolSize>0</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>700</font-weight>
+    </Scenario>
+    <Scenario>
+      <Name>5</Name>
+      <Key>5</Key>
+      <Comment></Comment>
+      <FillColor a="255" b="224" g="224" r="224"/>
+      <FillTransparency>false</FillTransparency>
+      <PatternColor a="255" b="224" g="224" r="224"/>
+      <Pattern>1</Pattern>
+      <Picture></Picture>
+      <LineSize>1</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="160" g="160" r="160"/>
+      <LineType>4096</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>1</ConnectorType>
+      <SymbolType>1</SymbolType>
+      <SymbolSize>0</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>700</font-weight>
+    </Scenario>
+    <Scenario>
+      <Name>6</Name>
+      <Key>6</Key>
+      <Comment></Comment>
+      <FillColor a="255" b="224" g="224" r="224"/>
+      <FillTransparency>false</FillTransparency>
+      <PatternColor a="255" b="224" g="224" r="224"/>
+      <Pattern>1</Pattern>
+      <Picture></Picture>
+      <LineSize>1</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="160" g="160" r="160"/>
+      <LineType>16</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>1</ConnectorType>
+      <SymbolType>1</SymbolType>
+      <SymbolSize>0</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>700</font-weight>
+    </Scenario>
+    <Scenario>
+      <Name>7</Name>
+      <Key>7</Key>
+      <Comment></Comment>
+      <FillColor a="255" b="224" g="224" r="224"/>
+      <FillTransparency>false</FillTransparency>
+      <PatternColor a="255" b="224" g="224" r="224"/>
+      <Pattern>1</Pattern>
+      <Picture></Picture>
+      <LineSize>1</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="160" g="160" r="160"/>
+      <LineType>4112</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>1</ConnectorType>
+      <SymbolType>1</SymbolType>
+      <SymbolSize>0</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>700</font-weight>
+    </Scenario>
+    <Scenario>
+      <Name>8</Name>
+      <Key>8</Key>
+      <Comment></Comment>
+      <FillColor a="255" b="224" g="224" r="224"/>
+      <FillTransparency>false</FillTransparency>
+      <PatternColor a="255" b="224" g="224" r="224"/>
+      <Pattern>1</Pattern>
+      <Picture></Picture>
+      <LineSize>1</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="160" g="160" r="160"/>
+      <LineType>1</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>1</ConnectorType>
+      <SymbolType>1</SymbolType>
+      <SymbolSize>0</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>700</font-weight>
+    </Scenario>
+    <Scenario>
+      <Name>9</Name>
+      <Key>9</Key>
+      <Comment></Comment>
+      <FillColor a="255" b="0" g="0" r="0"/>
+      <FillTransparency>true</FillTransparency>
+      <PatternColor a="255" b="0" g="0" r="0"/>
+      <Pattern>1</Pattern>
+      <Picture></Picture>
+      <LineSize>1</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="160" g="160" r="160"/>
+      <LineType>1</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>1</ConnectorType>
+      <SymbolType>1</SymbolType>
+      <SymbolSize>0</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>400</font-weight>
+    </Scenario>
+    <Scenario>
+      <Name>a</Name>
+      <Key>a</Key>
+      <Comment></Comment>
+      <FillColor a="255" b="0" g="0" r="0"/>
+      <FillTransparency>true</FillTransparency>
+      <PatternColor a="255" b="0" g="0" r="0"/>
+      <Pattern>1</Pattern>
+      <Picture></Picture>
+      <LineSize>1</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="160" g="160" r="160"/>
+      <LineType>1</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>2</ConnectorType>
+      <SymbolType>1</SymbolType>
+      <SymbolSize>1</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>400</font-weight>
+    </Scenario>
+    <Scenario>
+      <Name>Actual</Name>
+      <Key>AC</Key>
+      <Comment>The scenario “Actual” means the data of the actually running period or the last completed resp. closed period. Actual periods can be the actual day, the actual week, the actual month, etc.
+
+Scenarios; http://www.ibcs-a.org/standards/ 
+© 2015 IBCS Association. Licensed under Creative Commons BY-SA 4.0 International.</Comment>
+      <FillColor a="255" b="0" g="0" r="0"/>
+      <FillTransparency>false</FillTransparency>
+      <PatternColor a="255" b="0" g="0" r="0"/>
+      <Pattern>1</Pattern>
+      <Picture></Picture>
+      <LineSize>0</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="0" g="0" r="0"/>
+      <LineType>4369</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>1</ConnectorType>
+      <SymbolType>2</SymbolType>
+      <SymbolSize>10</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>400</font-weight>
+    </Scenario>
+    <Scenario>
+      <Name>Actual - Negative Variance</Name>
+      <Key>AC_NV</Key>
+      <Comment>The scenario “Actual” means the data of the actually running period or the last completed resp. closed period. Actual periods can be the actual day, the actual week, the actual month, etc.
+
+Scenarios; http://www.ibcs-a.org/standards/ 
+© 2015 IBCS Association. Licensed under Creative Commons BY-SA 4.0 International.</Comment>
+      <FillColor a="255" b="0" g="0" r="255"/>
+      <FillTransparency>false</FillTransparency>
+      <PatternColor a="255" b="0" g="0" r="0"/>
+      <Pattern>1</Pattern>
+      <Picture></Picture>
+      <LineSize>0</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="0" g="0" r="0"/>
+      <LineType>4369</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>1</ConnectorType>
+      <SymbolType>2</SymbolType>
+      <SymbolSize>10</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>400</font-weight>
+    </Scenario>
+    <Scenario>
+      <Name>Actual - Pin Head Marker</Name>
+      <Key>AC_PIN</Key>
+      <Comment>Relative variances are displayed in thin columns (vertical pins) or thin bars (horizontal pins).
+
+Data labels of pins are positioned outside the pin in the direction of the positive or negative increase, e.g. the label of a horizontal pin depicting “sales growth in %” (green) is positioned on the right hand side of the pin; the label of a vertical pin depicting “cost decrease in %” (green) below the pin.
+
+To visualize the scenario to be analyzed (minuend), add head markers to the pins. The scenario notation is applied to the fill of the heads, e.g. solid dark fill for AC and hatched fill for FC.
+
+Scenarios; http://www.ibcs-a.org/standards/ 
+© 2015 IBCS Association. Licensed under Creative Commons BY-SA 4.0 International.</Comment>
+      <FillColor a="255" b="0" g="0" r="0"/>
+      <FillTransparency>false</FillTransparency>
+      <PatternColor a="255" b="0" g="0" r="0"/>
+      <Pattern>1</Pattern>
+      <Picture></Picture>
+      <LineSize>0</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="0" g="0" r="0"/>
+      <LineType>4369</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>1</ConnectorType>
+      <SymbolType>2</SymbolType>
+      <SymbolSize>10</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>400</font-weight>
+    </Scenario>
+    <Scenario>
+      <Name>Actual - Positive Variance</Name>
+      <Key>AC_PV</Key>
+      <Comment>The scenario “Actual” means the data of the actually running period or the last completed resp. closed period. Actual periods can be the actual day, the actual week, the actual month, etc.
+
+Scenarios; http://www.ibcs-a.org/standards/ 
+© 2015 IBCS Association. Licensed under Creative Commons BY-SA 4.0 International.</Comment>
+      <FillColor a="255" b="0" g="180" r="140"/>
+      <FillTransparency>false</FillTransparency>
+      <PatternColor a="255" b="0" g="0" r="0"/>
+      <Pattern>1</Pattern>
+      <Picture></Picture>
+      <LineSize>0</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="0" g="0" r="0"/>
+      <LineType>4369</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>1</ConnectorType>
+      <SymbolType>2</SymbolType>
+      <SymbolSize>10</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>400</font-weight>
+    </Scenario>
+    <Scenario>
+      <Name>B</Name>
+      <Key>B</Key>
+      <Comment></Comment>
+      <FillColor a="255" b="255" g="255" r="255"/>
+      <FillTransparency>true</FillTransparency>
+      <PatternColor a="255" b="0" g="0" r="0"/>
+      <Pattern>1</Pattern>
+      <Picture></Picture>
+      <LineSize>1</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="190" g="190" r="190"/>
+      <LineType>16</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>1</ConnectorType>
+      <SymbolType>1</SymbolType>
+      <SymbolSize>0</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>700</font-weight>
+    </Scenario>
+    <Scenario>
+      <Name>Budget</Name>
+      <Key>BU</Key>
+      <Comment>In general, a “Plan” is the result of a mental anticipation of future action. It covers planned measures for future periods.
+
+The scenario “Budget” in most cases means the approved plan for one future year broken down by quarters and months.
+
+Scenarios; http://www.ibcs-a.org/standards/ 
+© 2015 IBCS Association. Licensed under Creative Commons BY-SA 4.0 International.</Comment>
+      <FillColor a="255" b="255" g="255" r="255"/>
+      <FillTransparency>false</FillTransparency>
+      <PatternColor a="255" b="0" g="0" r="0"/>
+      <Pattern>1</Pattern>
+      <Picture></Picture>
+      <LineSize>1</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="0" g="0" r="0"/>
+      <LineType>273</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>1</ConnectorType>
+      <SymbolType>2</SymbolType>
+      <SymbolSize>10</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>400</font-weight>
+    </Scenario>
+    <Scenario>
+      <Name>Forecast</Name>
+      <Key>FC</Key>
+      <Comment>In general, the scenario “Forecast” means an updated plan or budget in the course of the running year.
+
+Scenarios; http://www.ibcs-a.org/standards/ 
+© 2015 IBCS Association. Licensed under Creative Commons BY-SA 4.0 International.</Comment>
+      <FillColor a="255" b="0" g="0" r="0"/>
+      <FillTransparency>false</FillTransparency>
+      <PatternColor a="255" b="255" g="255" r="255"/>
+      <Pattern>9</Pattern>
+      <Picture></Picture>
+      <LineSize>1</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="0" g="0" r="0"/>
+      <LineType>4369</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>1</ConnectorType>
+      <SymbolType>2</SymbolType>
+      <SymbolSize>10</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>400</font-weight>
+    </Scenario>
+    <Scenario>
+      <Name>Forecast - Negative Variance</Name>
+      <Key>FC_NV</Key>
+      <Comment>In general, the scenario “Forecast” means an updated plan or budget in the course of the running year.
+
+Scenarios; http://www.ibcs-a.org/standards/ 
+© 2015 IBCS Association. Licensed under Creative Commons BY-SA 4.0 International.</Comment>
+      <FillColor a="255" b="0" g="0" r="255"/>
+      <FillTransparency>false</FillTransparency>
+      <PatternColor a="255" b="255" g="255" r="255"/>
+      <Pattern>9</Pattern>
+      <Picture></Picture>
+      <LineSize>1</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="0" g="0" r="255"/>
+      <LineType>4369</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>1</ConnectorType>
+      <SymbolType>2</SymbolType>
+      <SymbolSize>10</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>400</font-weight>
+    </Scenario>
+    <Scenario>
+      <Name>Forecast - Positive Variance</Name>
+      <Key>FC_PV</Key>
+      <Comment>In general, the scenario “Forecast” means an updated plan or budget in the course of the running year.
+
+Scenarios; http://www.ibcs-a.org/standards/ 
+© 2015 IBCS Association. Licensed under Creative Commons BY-SA 4.0 International.</Comment>
+      <FillColor a="255" b="0" g="180" r="140"/>
+      <FillTransparency>false</FillTransparency>
+      <PatternColor a="255" b="255" g="255" r="255"/>
+      <Pattern>9</Pattern>
+      <Picture></Picture>
+      <LineSize>1</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="0" g="180" r="140"/>
+      <LineType>4369</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>1</ConnectorType>
+      <SymbolType>2</SymbolType>
+      <SymbolSize>10</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>400</font-weight>
+    </Scenario>
+    <Scenario>
+      <Name>Plan</Name>
+      <Key>PL</Key>
+      <Comment>In general, a “Plan” is the result of a mental anticipation of future action. It covers planned measures for future periods.
+
+The scenario “Budget” in most cases means the approved plan for one future year broken down by quarters and months.
+
+Scenarios; http://www.ibcs-a.org/standards/ 
+© 2015 IBCS Association. Licensed under Creative Commons BY-SA 4.0 International.</Comment>
+      <FillColor a="255" b="255" g="255" r="255"/>
+      <FillTransparency>false</FillTransparency>
+      <PatternColor a="255" b="0" g="0" r="0"/>
+      <Pattern>1</Pattern>
+      <Picture></Picture>
+      <LineSize>1</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="0" g="0" r="0"/>
+      <LineType>273</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>1</ConnectorType>
+      <SymbolType>2</SymbolType>
+      <SymbolSize>10</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>400</font-weight>
+    </Scenario>
+    <Scenario>
+      <Name>Plan - Negative Variance</Name>
+      <Key>PL_NV</Key>
+      <Comment>In general, a “Plan” is the result of a mental anticipation of future action. It covers planned measures for future periods.
+
+The scenario “Budget” in most cases means the approved plan for one future year broken down by quarters and months.
+
+Scenarios; http://www.ibcs-a.org/standards/ 
+© 2015 IBCS Association. Licensed under Creative Commons BY-SA 4.0 International.</Comment>
+      <FillColor a="255" b="255" g="255" r="255"/>
+      <FillTransparency>false</FillTransparency>
+      <PatternColor a="255" b="0" g="0" r="0"/>
+      <Pattern>1</Pattern>
+      <Picture></Picture>
+      <LineSize>1</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="0" g="0" r="255"/>
+      <LineType>273</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>1</ConnectorType>
+      <SymbolType>2</SymbolType>
+      <SymbolSize>10</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>400</font-weight>
+    </Scenario>
+    <Scenario>
+      <Name>Plan - Pin Head Marker</Name>
+      <Key>PL_PIN</Key>
+      <Comment>Relative variances are displayed in thin columns (vertical pins) or thin bars (horizontal pins).
+
+Data labels of pins are positioned outside the pin in the direction of the positive or negative increase, e.g. the label of a horizontal pin depicting “sales growth in %” (green) is positioned on the right hand side of the pin; the label of a vertical pin depicting “cost decrease in %” (green) below the pin.
+
+To visualize the scenario to be analyzed (minuend), add head markers to the pins. The scenario notation is applied to the fill of the heads, e.g. solid dark fill for AC and hatched fill for FC.
+
+Scenarios; http://www.ibcs-a.org/standards/ 
+© 2015 IBCS Association. Licensed under Creative Commons BY-SA 4.0 International.</Comment>
+      <FillColor a="255" b="255" g="255" r="255"/>
+      <FillTransparency>false</FillTransparency>
+      <PatternColor a="255" b="0" g="0" r="0"/>
+      <Pattern>1</Pattern>
+      <Picture></Picture>
+      <LineSize>0</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="0" g="0" r="0"/>
+      <LineType>4369</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>1</ConnectorType>
+      <SymbolType>8</SymbolType>
+      <SymbolSize>10</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>400</font-weight>
+    </Scenario>
+    <Scenario>
+      <Name>Plan - Positive Variance</Name>
+      <Key>PL_PV</Key>
+      <Comment>In general, a “Plan” is the result of a mental anticipation of future action. It covers planned measures for future periods.
+
+The scenario “Budget” in most cases means the approved plan for one future year broken down by quarters and months.
+
+Scenarios; http://www.ibcs-a.org/standards/ 
+© 2015 IBCS Association. Licensed under Creative Commons BY-SA 4.0 International.</Comment>
+      <FillColor a="255" b="255" g="255" r="255"/>
+      <FillTransparency>false</FillTransparency>
+      <PatternColor a="255" b="0" g="0" r="0"/>
+      <Pattern>1</Pattern>
+      <Picture></Picture>
+      <LineSize>1</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="0" g="180" r="140"/>
+      <LineType>273</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>1</ConnectorType>
+      <SymbolType>2</SymbolType>
+      <SymbolSize>10</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>400</font-weight>
+    </Scenario>
+    <Scenario>
+      <Name>Previous Year</Name>
+      <Key>PY</Key>
+      <Comment>In general, the scenario “Previous year” means the actual data of the respective period (month, quarter, year) of last year. “Previous year” is frequently used for comparisons such as “May of this year compared to May of last year”.
+
+The following notation for “Previous years” should be used, if it is helpful for the comprehension of a chart or table to use a notation different from “Actual”, e.g. when showing a scenario analysis. In a pure time series analysis without any comparisons or variances, actual data of previous years should be noted as “Actual”.
+
+Scenarios; http://www.ibcs-a.org/standards/ 
+© 2015 IBCS Association. Licensed under Creative Commons BY-SA 4.0 International.</Comment>
+      <FillColor a="255" b="128" g="128" r="128"/>
+      <FillTransparency>false</FillTransparency>
+      <PatternColor a="255" b="128" g="128" r="128"/>
+      <Pattern>1</Pattern>
+      <Picture></Picture>
+      <LineSize>0</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="0" g="0" r="0"/>
+      <LineType>4369</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>1</ConnectorType>
+      <SymbolType>2</SymbolType>
+      <SymbolSize>10</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>400</font-weight>
+    </Scenario>
+    <Scenario>
+      <Name>Previous Year - Pin Head Marker</Name>
+      <Key>PY_PIN</Key>
+      <Comment>Relative variances are displayed in thin columns (vertical pins) or thin bars (horizontal pins).
+
+Data labels of pins are positioned outside the pin in the direction of the positive or negative increase, e.g. the label of a horizontal pin depicting “sales growth in %” (green) is positioned on the right hand side of the pin; the label of a vertical pin depicting “cost decrease in %” (green) below the pin.
+
+To visualize the scenario to be analyzed (minuend), add head markers to the pins. The scenario notation is applied to the fill of the heads, e.g. solid dark fill for AC and hatched fill for FC.
+
+Scenarios; http://www.ibcs-a.org/standards/ 
+© 2015 IBCS Association. Licensed under Creative Commons BY-SA 4.0 International.</Comment>
+      <FillColor a="255" b="128" g="128" r="128"/>
+      <FillTransparency>false</FillTransparency>
+      <PatternColor a="255" b="128" g="128" r="128"/>
+      <Pattern>1</Pattern>
+      <Picture></Picture>
+      <LineSize>0</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="0" g="0" r="0"/>
+      <LineType>4369</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>1</ConnectorType>
+      <SymbolType>2</SymbolType>
+      <SymbolSize>10</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>400</font-weight>
+    </Scenario>
+    <Scenario>
+      <Name>Transparent</Name>
+      <Key>TRANSPARENT</Key>
+      <Comment>This dynamic format can be used in objects and chart datasets to display them transparently.</Comment>
+      <FillColor a="255" b="0" g="0" r="0"/>
+      <FillTransparency>true</FillTransparency>
+      <PatternColor a="255" b="0" g="0" r="0"/>
+      <Pattern>1</Pattern>
+      <Picture></Picture>
+      <LineSize>0</LineSize>
+      <LineStyle>0</LineStyle>
+      <LineColor a="255" b="0" g="0" r="0"/>
+      <LineType>4369</LineType>
+      <MarginSize>0</MarginSize>
+      <MarginType>4369</MarginType>
+      <PaddingSize>0</PaddingSize>
+      <PaddingType>4369</PaddingType>
+      <Shadow>false</Shadow>
+      <ConnectorType>1</ConnectorType>
+      <SymbolType>1</SymbolType>
+      <SymbolSize>0</SymbolSize>
+      <FontColor a="255" b="0" g="0" r="0"/>
+      <font-weight>400</font-weight>
+    </Scenario>
+  </Scenarios>
+
+  <optionslist>
+    <option optionType="string">
+      <key>STARTDOCUMENT</key>
+      <value>00Start.apd</value>
+    </option>
+    <option optionType="string">
+      <key>INITIALIZATIONDOCUMENT</key>
+      <value></value>
+    </option>
+    <option optionType="string">
+      <key>APPLICATIONNAME</key>
+      <value>LvDemoConference2018</value>
+    </option>
+    <option optionType="double">
+      <key>COMPATIBILITYMODE</key>
+      <value>0</value>
+    </option>
+    <option optionType="enum">
+      <key>DEVMODE</key>
+      <value>HTML5EditMode</value>
+    </option>
+    <option optionType="bool">
+      <key>AUTOSAVEDOCUMENTSCRIPTS</key>
+      <value>false</value>
+    </option>
+    <option optionType="string">
+      <key>AUTOSAVESUBFOLDER</key>
+      <value>DocScripts</value>
+    </option>
+  </optionslist>
+
+</arcplanapplicationsettings>

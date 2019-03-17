@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<arcplanDocument WorksheetType="Standard" arcplanVersion="10.2.0.7100" xmlns="http://schemas.arcplan.com/arcplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.arcplan.com/arcplan http://schemas.arcplan.com/arcplan/Document.xsd">
+
+  <Settings>
+    <DocVersion>10.2.0.7195</DocVersion>
+    <DocRevision>1</DocRevision>
+    <CGIAnswer></CGIAnswer>
+    <BasedOn></BasedOn>
+    <State EditState="0" Select="1">
+      <Value>65536</Value>
+    </State>
+    <UsedLibs Select="1"/>
+    <UsedDatabases Select="1"/>
+    <LayoutManagement>false</LayoutManagement>
+    <Views>false</Views>
+    <SearchIcon Select="false" Type="1">
+      <EngageDocumentTitle></EngageDocumentTitle>
+      <Hint></Hint>
+      <Data/>
+    </SearchIcon>
+    <EventDescriptions>
+      <Blob>IAAAAHiccwxyDvBx9HPy9HPzD/J1DLEy1TPQM2Bo2MzEAAYAi0wHBA==
+</Blob>
+      <Events/>
+    </EventDescriptions>
+  </Settings>
+
+  <Layers>
+    <Layer Active="true" ID="0">
+      <Layout Select="1">
+        <PositionX>0</PositionX>
+        <PositionY>0</PositionY>
+        <Width>610</Width>
+        <Height>382</Height>
+        <Zoom>100</Zoom>
+        <ScreenWidth>1920</ScreenWidth>
+        <ScreenHeight>1080</ScreenHeight>
+        <CenterState>normal</CenterState>
+        <RasterState/>
+        <RasterHeight>19</RasterHeight>
+        <RasterWidth>70</RasterWidth>
+        <RasterLineProperty>0</RasterLineProperty>
+      </Layout>
+      <Background Select="1">
+        <TrueColor1 a="255" b="193" g="187" r="185"/>
+        <PatternFormat/>
+      </Background>
+    </Layer>
+    <Layer Active="true" ID="1">
+      <Layout Select="0">
+        <PositionX>120</PositionX>
+        <PositionY>120</PositionY>
+        <Width>1645</Width>
+        <Height>657</Height>
+        <Zoom>100</Zoom>
+        <ScreenWidth>0</ScreenWidth>
+        <ScreenHeight>0</ScreenHeight>
+        <CenterState>normal</CenterState>
+        <RasterState/>
+        <RasterHeight>19</RasterHeight>
+        <RasterWidth>70</RasterWidth>
+        <RasterLineProperty>0</RasterLineProperty>
+      </Layout>
+      <Background Select="0">
+        <TrueColor1 a="255" b="255" g="255" r="255"/>
+        <PatternFormat/>
+      </Background>
+    </Layer>
+    <Layer Active="true" ID="2">
+      <Layout Select="0">
+        <PositionX>120</PositionX>
+        <PositionY>120</PositionY>
+        <Width>1645</Width>
+        <Height>657</Height>
+        <Zoom>100</Zoom>
+        <ScreenWidth>0</ScreenWidth>
+        <ScreenHeight>0</ScreenHeight>
+        <CenterState>normal</CenterState>
+        <RasterState/>
+        <RasterHeight>19</RasterHeight>
+        <RasterWidth>70</RasterWidth>
+        <RasterLineProperty>0</RasterLineProperty>
+      </Layout>
+      <Background Select="0">
+        <TrueColor1 a="255" b="255" g="255" r="255"/>
+        <PatternFormat/>
+      </Background>
+    </Layer>
+    <Layer Active="true" ID="3">
+      <Layout Select="0">
+        <PositionX>120</PositionX>
+        <PositionY>120</PositionY>
+        <Width>1645</Width>
+        <Height>657</Height>
+        <Zoom>100</Zoom>
+        <ScreenWidth>0</ScreenWidth>
+        <ScreenHeight>0</ScreenHeight>
+        <CenterState>normal</CenterState>
+        <RasterState/>
+        <RasterHeight>19</RasterHeight>
+        <RasterWidth>70</RasterWidth>
+        <RasterLineProperty>0</RasterLineProperty>
+      </Layout>
+      <Background Select="0">
+        <TrueColor1 a="255" b="255" g="255" r="255"/>
+        <PatternFormat/>
+      </Background>
+    </Layer>
+  </Layers>
+
+  <Objects/>
+
+  <Views/>
+
+  <Groups/>
+
+</arcplanDocument>

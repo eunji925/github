@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<arcplanConnection arcplanVersion="10.1.0.8200" xmlns="http://schemas.arcplan.com/arcplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.arcplan.com/arcplan http://schemas.arcplan.com/arcplan/Connection.xsd">
+
+  <ID Hi="30671951" Lo="1099455504"/>
+
+  <ConnectionString>DSN=Paxata;Description=Paxata;UID=sa;APP=Longview Analytics;WSID=DESKTOP-KBCTMEU;DATABASE=Paxata;ADDITIONALFLAGS=0</ConnectionString>
+
+  <DriverType>ODBC</DriverType>
+
+  <SapLoginCheck>true</SapLoginCheck>
+
+  <ShowAllCubes>false</ShowAllCubes>
+
+  <offline>false</offline>
+
+  <AutoJoinColumns>true</AutoJoinColumns>
+
+  <Repeat>true</Repeat>
+
+  <RepositoryFile ShowOnlyRepTabs="false">Paxata.apr</RepositoryFile>
+
+</arcplanConnection>

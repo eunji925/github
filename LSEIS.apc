@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<arcplanConnection arcplanVersion="10.2.0.7200" xmlns="http://schemas.arcplan.com/arcplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.arcplan.com/arcplan http://schemas.arcplan.com/arcplan/Connection.xsd">
+
+  <ID Hi="30619561" Lo="1099412944"/>
+
+  <ConnectionString>DSN=LvDemo;UID=sa;APP=Longview Analytics;WSID=WIN-S5G67GMH1LF;DATABASE=LvDemo;;ADDITIONALFLAGS=0</ConnectionString>
+
+  <DriverType>ODBC</DriverType>
+
+  <SapLoginCheck>true</SapLoginCheck>
+
+  <ShowAllCubes>false</ShowAllCubes>
+
+  <offline>false</offline>
+
+  <AutoJoinColumns>true</AutoJoinColumns>
+
+  <Repeat>true</Repeat>
+
+  <RepositoryFile ShowOnlyRepTabs="false">LSEIS.apr</RepositoryFile>
+
+</arcplanConnection>
